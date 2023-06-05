@@ -1,0 +1,4 @@
+3
+Titanic 9.5 8800 7.5
+Godfather 9.2 7000 9.1
+SpiritedAway 10 9000 10

@@ -1,0 +1,5 @@
+4
+kvadrat zuta 100
+kvadrat zuta 120
+kvadrat zelena 60
+kvadrat plava 60

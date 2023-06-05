@@ -1,0 +1,6 @@
+Beograd 11000
+Obrenovac 11500
+Nis 18000
+Pirot 18300
+Bor 19210
+Palic 24413

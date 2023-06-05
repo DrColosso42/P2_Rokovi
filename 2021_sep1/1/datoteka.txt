@@ -1,0 +1,6 @@
+5
+kvadrat plava 12
+pravougaonik crvena 20
+pravougaonik plava 200
+krug zelena 20
+kvadrat plava 2
