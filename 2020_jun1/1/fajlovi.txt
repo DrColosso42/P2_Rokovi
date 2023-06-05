@@ -1,0 +1,3 @@
+fajl1.txt:Ovo je tekst fajla1
+fajl2.txt:Ovo je tekst fajla2
+fajl3.txt:Ovo je tekst fajla3
